@@ -1,5 +1,4 @@
-
-You create kebabs at the Pink Elephant store
+## You create kebabs at the Pink Elephant store
 
 ### 1.) Create your first Kebab 
 Nothing inside, you can just call a `description` function which should return the `I am an empty kebab` string. 
